@@ -40,7 +40,9 @@ All sensor data is transmitted over Wi-Fi and visualized using the Blynk mobile 
 ### Software
 - Arduino IDE
 - Blynk Mobile App
----
+
+### Programming Language
+- Embedded C (Arduino IDE)
 
 ## ⚙️ System Architecture
 
